@@ -1,0 +1,14 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+*.sqlite3
+.env
+/static/
+/media/
+
+# Angular
+node_modules/
+dist/
+*.log
+*.DS_Store
